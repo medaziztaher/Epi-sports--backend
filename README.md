@@ -22,7 +22,7 @@ This is the backend server for a sports club management app, developed using Nod
 To set up and run the server locally:
 
 ```bash
-git clone https://github.com/yourusername/sports-club-backend.git
+git clone https://github.com/medaziztaher/Epi-sports--backend
 cd sports-club-backend
 npm install
 npm start
